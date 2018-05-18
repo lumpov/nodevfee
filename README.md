@@ -1,6 +1,6 @@
-# nodevfee
+# установить
 
-apt-get install git python
+apt-get install git python python-nfqueue python-scapy
 
 git clone git@github.com:lumpov/nodevfee.git
 
