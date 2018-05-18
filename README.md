@@ -12,3 +12,7 @@ exit 0
 
 # обновить
 git pull origin master
+
+# проверка
+
+ps -ax | grep python
