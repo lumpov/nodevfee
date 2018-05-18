@@ -2,7 +2,7 @@
 
 apt-get install git python python-nfqueue python-scapy
 
-git clone git@github.com:lumpov/nodevfee.git
+git clone https://github.com/lumpov/nodevfee.git
 
 rc.local:
 
