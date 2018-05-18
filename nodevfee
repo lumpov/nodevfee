@@ -1,5 +1,5 @@
-#!/bin/bash
+#!/bin/sh
 
-nohup python ./nodevfee.py &
+nohup python /home/user/nodevfee/nodevfee.py &
 
 exit 0
